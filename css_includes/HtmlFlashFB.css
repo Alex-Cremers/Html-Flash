@@ -1,0 +1,9 @@
+.message {
+    font-size: medium;
+    width: 40em;
+  align: center;
+}
+
+.flashed-sentence {
+  font-size: 2em;
+}
